@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "NQbnnfEzBzY=",
+  "dgSpecHash": "gslcG340iWI=",
   "success": true,
-  "projectFilePath": "C:\\Users\\alokke\\source\\repos\\AzureWebApp\\AzureWebApp\\AzureWebApp.csproj",
+  "projectFilePath": "C:\\Users\\alokke\\source\\repos\\AzureWebApp\\TestAzure\\AzureWebApp\\AzureWebApp.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\alokke\\.nuget\\packages\\humanizer\\2.14.1\\humanizer.2.14.1.nupkg.sha512",
     "C:\\Users\\alokke\\.nuget\\packages\\humanizer.core\\2.14.1\\humanizer.core.2.14.1.nupkg.sha512",

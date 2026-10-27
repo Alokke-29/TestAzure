@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\alokke\\source\\repos\\AzureWebApp\\AzureWebApp\\AzureWebApp.csproj": {}
+    "C:\\Users\\alokke\\source\\repos\\AzureWebApp\\TestAzure\\AzureWebApp\\AzureWebApp.csproj": {}
   },
   "projects": {
-    "C:\\Users\\alokke\\source\\repos\\AzureWebApp\\AzureWebApp\\AzureWebApp.csproj": {
+    "C:\\Users\\alokke\\source\\repos\\AzureWebApp\\TestAzure\\AzureWebApp\\AzureWebApp.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\alokke\\source\\repos\\AzureWebApp\\AzureWebApp\\AzureWebApp.csproj",
+        "projectUniqueName": "C:\\Users\\alokke\\source\\repos\\AzureWebApp\\TestAzure\\AzureWebApp\\AzureWebApp.csproj",
         "projectName": "AzureWebApp",
-        "projectPath": "C:\\Users\\alokke\\source\\repos\\AzureWebApp\\AzureWebApp\\AzureWebApp.csproj",
+        "projectPath": "C:\\Users\\alokke\\source\\repos\\AzureWebApp\\TestAzure\\AzureWebApp\\AzureWebApp.csproj",
         "packagesPath": "C:\\Users\\alokke\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\alokke\\source\\repos\\AzureWebApp\\AzureWebApp\\obj\\",
+        "outputPath": "C:\\Users\\alokke\\source\\repos\\AzureWebApp\\TestAzure\\AzureWebApp\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
